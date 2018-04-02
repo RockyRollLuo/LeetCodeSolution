@@ -1,6 +1,6 @@
 # LeetCode题解
 
-源目录 
+解析 
 https://github.com/Blankj/awesome-java-leetcode
 
 参考解析 
